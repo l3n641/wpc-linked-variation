@@ -1,0 +1,448 @@
+# Copyright (C) 2026 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Linked Variation for WooCommerce 4.4.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-linked-variation\n"
+"POT-Creation-Date: 2026-06-22T12:11:58+00:00\n"
+"PO-Revision-Date: 2026-06-29 14:44+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+"X-Domain: wpc-linked-variation\n"
+
+#. Plugin Name of the plugin
+#: wpc-linked-variation.php
+msgid "WPC Linked Variation for WooCommerce"
+msgstr "WPC WooCommerce 关联变体"
+
+#. Plugin URI of the plugin
+#: wpc-linked-variation.php
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+#: wpc-linked-variation.php
+msgid "WPC Linked Variation built to link separate products together by attributes."
+msgstr "WPC Linked Variation 旨在通过属性将独立的产品关联在一起。"
+
+#. Author of the plugin
+#: wpc-linked-variation.php
+msgid "WPClever"
+msgstr "WPClever"
+
+#. Author URI of the plugin
+#: wpc-linked-variation.php
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#: wpc-linked-variation.php:163
+msgctxt "Post Type General Name"
+msgid "Linked Variations"
+msgstr "关联变体"
+
+#: wpc-linked-variation.php:164
+msgctxt "Post Type Singular Name"
+msgid "Linked Variation"
+msgstr "关联变体"
+
+#: wpc-linked-variation.php:165
+msgid "Add New Linked Variation"
+msgstr "添加新关联变体"
+
+#: wpc-linked-variation.php:166
+msgid "Add New"
+msgstr "添加新"
+
+#: wpc-linked-variation.php:167
+msgid "Edit Linked Variation"
+msgstr "编辑关联变体"
+
+#: wpc-linked-variation.php:168
+msgid "Update Linked Variation"
+msgstr "更新关联变体"
+
+#: wpc-linked-variation.php:169
+msgid "Search Linked Variation"
+msgstr "搜索关联变体"
+
+#: wpc-linked-variation.php:173 wpc-linked-variation.php:579
+msgid "Linked Variation"
+msgstr "关联变体"
+
+#: wpc-linked-variation.php:224 wpc-linked-variation.php:453
+msgid "Configuration"
+msgstr "配置"
+
+#: wpc-linked-variation.php:268
+msgid "Source"
+msgstr "来源"
+
+#: wpc-linked-variation.php:271 wpc-linked-variation.php:284
+#: wpc-linked-variation.php:467
+msgid "Products"
+msgstr "产品"
+
+#: wpc-linked-variation.php:291
+msgid "Search for a product&hellip;"
+msgstr "搜索产品&hellip;"
+
+#: wpc-linked-variation.php:309
+msgid "Terms"
+msgstr "条款/分类项"
+
+#: wpc-linked-variation.php:314
+msgid "All (any)"
+msgstr "所有 (任意)"
+
+#: wpc-linked-variation.php:314
+msgid "or"
+msgstr "或"
+
+#: wpc-linked-variation.php:342 wpc-linked-variation.php:687
+msgid "Limit"
+msgstr "限制数量"
+
+#: wpc-linked-variation.php:353
+msgid "Orderby"
+msgstr "排序依据"
+
+#: wpc-linked-variation.php:357 wpc-linked-variation.php:375
+msgid "Default"
+msgstr "默认"
+
+#: wpc-linked-variation.php:358
+msgid "None"
+msgstr "无"
+
+#: wpc-linked-variation.php:359
+msgid "ID"
+msgstr "ID"
+
+#: wpc-linked-variation.php:360
+msgid "Name"
+msgstr "名称"
+
+#: wpc-linked-variation.php:361
+msgid "Type"
+msgstr "类型"
+
+#: wpc-linked-variation.php:362
+msgid "Rand"
+msgstr "随机"
+
+#: wpc-linked-variation.php:363 wpc-linked-variation.php:454
+msgid "Date"
+msgstr "日期"
+
+#: wpc-linked-variation.php:364
+msgid "Price"
+msgstr "价格"
+
+#: wpc-linked-variation.php:365
+msgid "Modified"
+msgstr "修改时间"
+
+#: wpc-linked-variation.php:371
+msgid "Order"
+msgstr "排序规则"
+
+#: wpc-linked-variation.php:376
+msgid "DESC"
+msgstr "降序 (DESC)"
+
+#: wpc-linked-variation.php:377
+msgid "ASC"
+msgstr "升序 (ASC)"
+
+#: wpc-linked-variation.php:382
+msgid "Linked by (attributes)"
+msgstr "关联依据 (属性)"
+
+#: wpc-linked-variation.php:400
+msgid "Move"
+msgstr "移动"
+
+#: wpc-linked-variation.php:400
+msgid "Show images"
+msgstr "显示图片"
+
+#: wpc-linked-variation.php:400
+msgid "Use dropdown"
+msgstr "使用下拉菜单"
+
+#: wpc-linked-variation.php:400
+msgid "Use swatches"
+msgstr "使用色块/图片选择器"
+
+#: wpc-linked-variation.php:452
+msgid "Title"
+msgstr "标题"
+
+#: wpc-linked-variation.php:484
+msgid "Categories"
+msgstr "分类"
+
+#: wpc-linked-variation.php:488
+msgid "Tags"
+msgstr "标签"
+
+#: wpc-linked-variation.php:503
+msgid "Attributes"
+msgstr "属性"
+
+#: wpc-linked-variation.php:579 wpc-linked-variation.php:595
+msgid "WPC Linked Variation"
+msgstr "WPC Linked Variation"
+
+#: wpc-linked-variation.php:595
+msgid "Premium"
+msgstr "专业版/高级版"
+
+#. translators: stars
+#: wpc-linked-variation.php:598
+#, php-format
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr "感谢您使用我们的插件！如果您感到满意，请给予全五星 %s 好评以示鼓励。"
+
+#: wpc-linked-variation.php:601
+msgid "Reviews"
+msgstr "评价/回顾"
+
+#: wpc-linked-variation.php:604
+msgid "Changelog"
+msgstr "更新日志"
+
+#: wpc-linked-variation.php:607
+msgid "Discussion"
+msgstr "讨论交流"
+
+#: wpc-linked-variation.php:617
+msgid "Settings updated."
+msgstr "设置已更新。"
+
+#: wpc-linked-variation.php:624 wpc-linked-variation.php:1482
+msgid "Settings"
+msgstr "设置"
+
+#: wpc-linked-variation.php:628
+msgid "Localization"
+msgstr "本地化"
+
+#: wpc-linked-variation.php:632 wpc-linked-variation.php:1483
+msgid "Linked Variations"
+msgstr "关联变体"
+
+#: wpc-linked-variation.php:637 wpc-linked-variation.php:1484
+msgid "Premium Version"
+msgstr "专业版本"
+
+#: wpc-linked-variation.php:641
+msgid "Essential Kit"
+msgstr "必备工具包"
+
+#: wpc-linked-variation.php:662
+msgid "Position on single page"
+msgstr "在单品页面的显示位置"
+
+#: wpc-linked-variation.php:665 wpc-linked-variation.php:679
+msgid "Above the add to cart button"
+msgstr "加入购物车按钮上方"
+
+#: wpc-linked-variation.php:666 wpc-linked-variation.php:680
+msgid "Under the add to cart button"
+msgstr "加入购物车按钮下方"
+
+#: wpc-linked-variation.php:667 wpc-linked-variation.php:681
+msgid "Under the title"
+msgstr "标题下方"
+
+#: wpc-linked-variation.php:668 wpc-linked-variation.php:682
+msgid "Under the price"
+msgstr "价格下方"
+
+#: wpc-linked-variation.php:669
+msgid "Under the excerpt"
+msgstr "简短描述下方"
+
+#: wpc-linked-variation.php:670 wpc-linked-variation.php:683
+msgid "None (hide it)"
+msgstr "无 (隐藏显示)"
+
+#: wpc-linked-variation.php:672
+msgid "Choose the position to show the linked variations on single product page."
+msgstr "选择在单个产品页面上显示关联变体的位置。"
+
+#: wpc-linked-variation.php:676
+msgid "Position on archive page"
+msgstr "在列表/存档页面的显示位置"
+
+#: wpc-linked-variation.php:685
+msgid "Choose the position to show the linked variations on archive page."
+msgstr "选择在产品列表/存档页面上显示关联变体的位置。"
+
+#: wpc-linked-variation.php:697
+msgid "Shortcode"
+msgstr "短代码"
+
+#. translators: shortcode
+#: wpc-linked-variation.php:699
+#, php-format
+msgid "You can use the shortcode %s to show the list where you want."
+msgstr "您可以使用短代码 %s 在您想要的任意位置显示此列表。"
+
+#: wpc-linked-variation.php:703
+msgid "Tooltip library"
+msgstr "工具提示(Tooltip)库"
+
+#: wpc-linked-variation.php:706
+msgid "Hint.css"
+msgstr "Hint.css"
+
+#: wpc-linked-variation.php:707
+msgid "Tippy.js"
+msgstr "Tippy.js"
+
+#: wpc-linked-variation.php:708
+msgid "None (Disable)"
+msgstr "无 (禁用)"
+
+#: wpc-linked-variation.php:717
+msgid "Tooltip position"
+msgstr "工具提示位置"
+
+#: wpc-linked-variation.php:720
+msgid "Top"
+msgstr "上"
+
+#: wpc-linked-variation.php:721
+msgid "Right"
+msgstr "右"
+
+#: wpc-linked-variation.php:722
+msgid "Bottom"
+msgstr "下"
+
+#: wpc-linked-variation.php:723
+msgid "Left"
+msgstr "左"
+
+#: wpc-linked-variation.php:729
+msgid "Tooltip content"
+msgstr "工具提示内容"
+
+#: wpc-linked-variation.php:732
+msgid "Attribute information"
+msgstr "属性信息"
+
+#: wpc-linked-variation.php:733
+msgid "Product information"
+msgstr "产品信息"
+
+#: wpc-linked-variation.php:738
+msgid "Hide empty attribute terms"
+msgstr "隐藏空属性项"
+
+#: wpc-linked-variation.php:741 wpc-linked-variation.php:751
+#: wpc-linked-variation.php:760 wpc-linked-variation.php:781
+msgid "Yes"
+msgstr "是"
+
+#: wpc-linked-variation.php:742 wpc-linked-variation.php:752
+#: wpc-linked-variation.php:761 wpc-linked-variation.php:782
+msgid "No"
+msgstr "否"
+
+#: wpc-linked-variation.php:744
+msgid "Hide attribute terms that haven't any products."
+msgstr "隐藏没有任何相关产品的属性项。"
+
+#: wpc-linked-variation.php:748
+msgid "Exclude hidden product"
+msgstr "排除隐藏产品"
+
+#: wpc-linked-variation.php:757
+msgid "Exclude unpurchasable product"
+msgstr "排除不可购买的产品"
+
+#: wpc-linked-variation.php:766
+msgid "Link to individual product"
+msgstr "链接到独立产品"
+
+#: wpc-linked-variation.php:769
+msgid "Open in the same tab"
+msgstr "在当前标签页打开"
+
+#: wpc-linked-variation.php:770
+msgid "Open in the new tab"
+msgstr "在新标签页打开"
+
+#: wpc-linked-variation.php:771
+msgid "Open quick view popup"
+msgstr "打开快速查看弹窗"
+
+#: wpc-linked-variation.php:778
+msgid "Use nofollow links"
+msgstr "使用 nofollow 链接"
+
+#: wpc-linked-variation.php:801
+msgid "import / export"
+msgstr "导入 / 导出"
+
+#: wpc-linked-variation.php:810
+msgid "General"
+msgstr "常规设置"
+
+#: wpc-linked-variation.php:812
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr "留空则使用默认文本及其对应的多语言翻译。"
+
+#: wpc-linked-variation.php:816
+msgid "More"
+msgstr "更多"
+
+#. translators: count
+#: wpc-linked-variation.php:823 wpc-linked-variation.php:1275
+#, php-format
+msgid "+%d More"
+msgstr "还有 +%d 个"
+
+#: wpc-linked-variation.php:1500
+msgid "Community support"
+msgstr "社区支持"
+
+#: wpc-linked-variation.php:1538
+msgid "Before container"
+msgstr "容器前方 (Before container)"
+
+#: wpc-linked-variation.php:1539
+msgid "After container"
+msgstr "容器后方 (After container)"
+
+#: wpc-linked-variation.php:1540
+msgid "Before attributes"
+msgstr "属性列表前方 (Before attributes)"
+
+#: wpc-linked-variation.php:1541
+msgid "After attributes"
+msgstr "属性列表后方 (After attributes)"
+
+#: wpc-linked-variation.php:1542
+msgid "Before attribute"
+msgstr "单个属性前方 (Before attribute)"
+
+#: wpc-linked-variation.php:1543
+msgid "After attribute"
+msgstr "单个属性后方 (After attribute)"
+
+#: wpc-linked-variation.php:1544
+msgid "Before attribute label"
+msgstr "属性标签前方 (Before attribute label)"
+
+#: wpc-linked-variation.php:1545
+msgid "After attribute label"
+msgstr "属性标签后方 (After attribute label)"
